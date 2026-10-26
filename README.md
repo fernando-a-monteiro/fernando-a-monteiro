@@ -31,7 +31,7 @@ Análise de transações e identificação de fraudes com Python e Pandas, do tr
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/fernando-monteiro-278b86231) · seu-email@exemplo.com
+[LinkedIn](https://www.linkedin.com/in/fernando-monteiro-278b86231)
 
 ---
 
