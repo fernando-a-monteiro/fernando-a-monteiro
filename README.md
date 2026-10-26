@@ -1,24 +1,57 @@
-# Olá, sou o Fernando Monteiro.
+# Olá, sou o Fernando Monteiro 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Mogi das Cruzes e atuo com foco em engenharia back-end. Minha meta é projetar, desenvolver e escalar sistemas de missão crítica, priorizando arquitetura limpa e qualidade de software.
+Estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mogi das Cruzes** e estagiário na **XP Inc.**, onde desenvolvo automações e programas em Python para a área de Fundos de Investimento.
 
-## 🎯 Foco Profissional e Stack Tecnológica
+Meu foco é **desenvolvimento back-end e automação de processos com Java e Python, voltado ao mercado financeiro**: sistemas e automações que lidam com dados, integrações e processos onde precisão importa.
 
-Minha base de desenvolvimento é estruturada para atender demandas de ambientes corporativos robustos:
+## 💼 Experiência
 
-* **Linguagem & Frameworks:** Java, Spring Boot.
-* **Bancos de Dados:** Modelagem relacional e persistência com MySQL.
-* **Expansão de Competências (Em andamento):** Cloud Computing (Microsoft Azure) e integração com Inteligência Artificial / LLMs para resolução de problemas de negócio.
+**Estagiário de Desenvolvimento — XP Inc.** *(set/2026 – atual)*
 
-## ⚙️ O Que Estou Construindo
+## 🛠️ Stack
 
-Atualmente, estou focado no desenvolvimento iterativo de um **Sistema Bancário Core**. O objetivo deste projeto não é ser apenas um CRUD, mas um portfólio vivo que demonstra a evolução de uma arquitetura de software real, passando por:
+- **Linguagens:** Java, Python, SQL
+- **Back-end:** Spring Boot, FastAPI *(em estudo)*
+- **Dados:** Pandas, MySQL, Databricks
+- **Ferramentas:** Git, Azure DevOps
+- **Em aprendizado:** Microsoft Azure, integração com LLMs
 
-1. **Fundação:** Orientação a Objetos estrita e persistência de dados.
-2. **Confiabilidade:** Cobertura de testes automatizados e tratamento de concorrência.
-3. **Escala:** Migração para infraestrutura em nuvem e otimização de performance.
+## 🏦 Projeto em destaque: [Sistema Bancário Core](https://github.com/fernando-a-monteiro/core-banking-system)
 
-## 📞 Contato
+Um sistema bancário desenvolvido de forma iterativa, documentando a evolução de uma arquitetura real:
 
-Para discussões técnicas, propostas e networking:
-* [Meu LinkedIn](https://www.linkedin.com/in/fernando-monteiro-278b86231)
+- 🚧 **Fundação:** orientação a objetos e persistência de dados
+- ⏳ **Confiabilidade:** testes automatizados e tratamento de concorrência
+- ⏳ **Escala:** Docker, CI/CD, nuvem e otimização de performance
+
+## 💳 Outros projetos
+
+**[Detecção de Fraude em Cartão de Crédito](https://github.com/fernando-a-monteiro/NOME-DO-REPO)** — Desafio DIO
+Análise de transações e identificação de fraudes com Python e Pandas, do tratamento dos dados à avaliação dos resultados.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/fernando-monteiro-278b86231) · seu-email@exemplo.com
+
+---
+
+<details>
+<summary>🇺🇸 English version</summary>
+
+### Hi, I'm Fernando Monteiro 👋
+
+Systems Analysis and Development student at **FATEC Mogi das Cruzes** and intern at **XP Inc.**, building Python automations and applications for the Investment Funds area.
+
+My focus is **back-end development and process automation with Java and Python for the financial market**: systems and automations that handle data, integrations and processes where accuracy matters.
+
+**Experience — Development Intern, XP Inc.** *(Sep 2026 – present)*
+
+**Stack:** Java, Python, SQL · Spring Boot, FastAPI *(learning)* · Pandas, MySQL, Databricks · Git, Azure DevOps · Learning: Microsoft Azure, LLM integration
+
+**Featured project: [Core Banking System](https://github.com/fernando-a-monteiro/core-banking-system)**: an iteratively built banking system documenting the evolution of a real-world architecture: foundation (OOP and persistence) → reliability (tests and concurrency) → scale (Docker, CI/CD, cloud).
+
+**Other projects: [Credit Card Fraud Detection](https://github.com/fernando-a-monteiro/NOME-DO-REPO)** (DIO challenge): transaction analysis and fraud identification with Python and Pandas, from data cleaning to results evaluation.
+
+📫 [LinkedIn](https://www.linkedin.com/in/fernando-monteiro-278b86231)
+
+</details>
