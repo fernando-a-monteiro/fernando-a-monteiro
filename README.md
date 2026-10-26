@@ -6,7 +6,7 @@ Meu foco é **desenvolvimento back-end e automação de processos com Java e Pyt
 
 ## 💼 Experiência
 
-**Estagiário de Desenvolvimento — XP Inc.** *(set/2026 – atual)*
+**Estagiário de Desenvolvimento — XP Inc.** *(Agosto/2026 – atual)*
 
 ## 🛠️ Stack
 
