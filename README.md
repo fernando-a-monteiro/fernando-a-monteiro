@@ -1,8 +1,6 @@
-# Olá, sou o Fernando Monteiro 👋
+Desenvolvedor e estagiário na XP Inc., onde aplico IA e Python no desenvolvimento de automações e programas voltados à área de Fundos de Investimento.
 
-Estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mogi das Cruzes** e estagiário na **XP Inc.**, onde desenvolvo automações e programas em Python para a área de Fundos de Investimento.
-
-Meu foco é **desenvolvimento back-end e automação de processos com Java e Python, voltado ao mercado financeiro**: sistemas e automações que lidam com dados, integrações e processos onde precisão importa.
+Meu foco é desenvolvimento back-end e automação de processos com Java e Python, unindo engenharia de software e inteligência artificial para criar sistemas e soluções que lidam com dados, integrações e fluxos críticos onde a precisão importa.
 
 ## 💼 Experiência
 
