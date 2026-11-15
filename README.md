@@ -25,7 +25,7 @@
 
 <!-- Stack em tabela por categoria: <th> é o cabeçalho e cada <td> é uma célula -->
 <table>
-  <!-- Linha de cabeçalho: a segunda coluna virou DADOS para caber o Databricks -->
+  <!-- Linha de cabeçalho -->
   <tr>
     <th>BACK-END</th>
     <th>DADOS</th>
@@ -35,7 +35,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" title="Java"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="MySQL" title="MySQL"/></td>
   </tr>
-  <!-- Linha 2: Python no back-end e Databricks em dados (ícone do Simple Icons, já na cor da marca) -->
+  <!-- Linha 2: Python no back-end e Databricks em dados (ícone do Simple Icons) -->
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python" title="Python"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/databricks" height="70" alt="Databricks" title="Databricks"/></td>
@@ -89,10 +89,10 @@ Análise de transações e identificação de fraudes com Python e Pandas, do tr
 
 ---
 
-<!-- Contato no final, com o ícone grande do LinkedIn -->
+<!-- Contato no final, com o ícone grande do LinkedIn (Devicon, que já funcionou antes) -->
 ### Contato
 
 <!-- Ícone quadrado clicável: o <a> é o link e o <img> é o ícone -->
 <a href="https://www.linkedin.com/in/fernando-monteiro-278b86231" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="55" alt="LinkedIn" title="Acesse meu LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55" alt="LinkedIn" title="Acesse meu LinkedIn"/>
 </a>
