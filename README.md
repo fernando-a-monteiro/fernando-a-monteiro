@@ -1,14 +1,5 @@
-<!-- Título fixo (sem animação), centralizado -->
-<h2 align="center">👋 Olá, me chamo Fernando Arruda Monteiro!</h2>
-
-<!-- Subtítulo centralizado -->
-<p align="center"><b>Desenvolvedor Back-end · Python & Java · Automação e IA em Fundos de Investimento</b></p>
-
-<!-- Separador -->
----
-
-<!-- Seção Sobre mim -->
-## 👨‍💻 Sobre mim
+<!-- Título fixo -->
+<h2>👋 Olá, me chamo Fernando Arruda Monteiro!</h2>
 
 <!-- Apresentação -->
 💼 Desenvolvedor e estagiário na **XP Inc.**, onde aplico IA e Python no desenvolvimento de automações e programas voltados à área de **Fundos de Investimento**.
@@ -19,30 +10,40 @@
 <!-- Formação -->
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Mogi das Cruzes.
 
----
-
 <!-- Experiência -->
-## 💼 Experiência
-
-<!-- Cargo em negrito e período em itálico -->
-**Estagiário de Desenvolvimento** — XP Inc. *(Agosto/2026 – atual)*
+🏢 **Estagiário de Desenvolvimento** — XP Inc. *(Agosto/2026 – atual)*
 
 ---
 
-<!-- Stack: só as três linguagens, em tamanho grande -->
-## 🛠️ Minhas Tecnologias
-
-<!-- Ícones com 100px de altura; &nbsp; dá espaço entre eles (o logo do MySQL representa o SQL) -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="Python" title="Python"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="Java" title="Java"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="100" alt="SQL" title="SQL"/>
+<!-- Dois cards lado a lado no tema radical (título rosa, fundo escuro), igual ao exemplo -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernando-a-monteiro&show_icons=true&theme=radical&locale=pt-br" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-a-monteiro&layout=compact&theme=radical&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
 </p>
 
+---
+
+<!-- Stack em tabela por categoria: <th> é o cabeçalho e cada <td> é uma célula -->
+<table>
+  <!-- Linha de cabeçalho com as categorias -->
+  <tr>
+    <th>BACK-END</th>
+    <th>BANCO DE DADOS</th>
+  </tr>
+  <!-- Linha 1: Java no back-end e SQL no banco de dados -->
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" title="Java"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="SQL" title="SQL"/></td>
+  </tr>
+  <!-- Linha 2: Python no back-end; a célula vazia mantém a tabela alinhada -->
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python" title="Python"/></td>
+    <td></td>
+  </tr>
+</table>
+
 <!-- O que está em estudo, em texto pequeno -->
-<p align="center"><sub>📚 Em aprendizado: FastAPI, Microsoft Azure e integração com LLMs</sub></p>
+<sub>📚 Em aprendizado: FastAPI, Microsoft Azure e integração com LLMs</sub>
 
 ---
 
@@ -52,7 +53,7 @@
 <!-- Projeto 1: Sistema Bancário Core -->
 ### 🏦 [Sistema Bancário Core](https://github.com/fernando-a-monteiro/core-banking-system)
 
-<!-- Mini-badges do projeto -->
+<!-- Badges do projeto -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
 
@@ -69,7 +70,7 @@ Um sistema bancário desenvolvido de forma iterativa, documentando a evolução 
 <!-- Projeto 2: agente Smith -->
 ### 🤖 [Smith — Educador Financeiro](https://github.com/fernando-a-monteiro/smith-educador-financeiro)
 
-<!-- Mini-badges do projeto -->
+<!-- Badges do projeto -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IA Generativa](https://img.shields.io/badge/IA-Generativa-8A2BE2?style=for-the-badge)
 
@@ -82,7 +83,7 @@ Agente de IA educativo sobre fundos de investimento, que explica conceitos do me
 <!-- Projeto 3: detecção de fraude -->
 ### 🔍 [Detecção de Fraude em Cartão de Crédito](https://github.com/fernando-a-monteiro/deteccao-fraude-cartao)
 
-<!-- Mini-badges do projeto -->
+<!-- Badges do projeto -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -94,9 +95,10 @@ Análise de transações e identificação de fraudes com Python e Pandas, do tr
 
 ---
 
-<!-- Contato no final: ícone quadrado do LinkedIn clicável e centralizado -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/fernando-monteiro-278b86231" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" title="Acesse meu LinkedIn"/>
-  </a>
-</p>
+<!-- Contato no final, com o ícone grande do LinkedIn, igual ao exemplo -->
+### Contato
+
+<!-- Ícone quadrado clicável: o <a> é o link e o <img> é o ícone -->
+<a href="https://www.linkedin.com/in/fernando-monteiro-278b86231" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55" alt="LinkedIn" title="Acesse meu LinkedIn"/>
+</a>
