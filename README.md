@@ -15,10 +15,10 @@
 
 ---
 
-<!-- Dois cards lado a lado no tema radical (título rosa, fundo escuro), igual ao exemplo -->
+<!-- Dois cards lado a lado no tema radical, gerados pelo GitHub Stats Extended -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernando-a-monteiro&show_icons=true&theme=radical&locale=pt-br" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-a-monteiro&layout=compact&theme=radical&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=fernando-a-monteiro&show_icons=true&theme=radical&locale=pt-br" height="165" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fernando-a-monteiro&layout=compact&theme=radical&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
 </p>
 
 ---
@@ -74,9 +74,6 @@ Um sistema bancário desenvolvido de forma iterativa, documentando a evolução 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IA Generativa](https://img.shields.io/badge/IA-Generativa-8A2BE2?style=for-the-badge)
 
-<!-- Origem do projeto -->
-*Desafio DIO · Bootcamp Bradesco GenAI*
-
 <!-- Descrição -->
 Agente de IA educativo sobre fundos de investimento, que explica conceitos do mercado de forma acessível.
 
@@ -87,15 +84,12 @@ Agente de IA educativo sobre fundos de investimento, que explica conceitos do me
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<!-- Origem do projeto -->
-*Desafio DIO · Formação Python for Data Analytics*
-
 <!-- Descrição -->
 Análise de transações e identificação de fraudes com Python e Pandas, do tratamento dos dados à avaliação dos resultados.
 
 ---
 
-<!-- Contato no final, com o ícone grande do LinkedIn, igual ao exemplo -->
+<!-- Contato no final, com o ícone grande do LinkedIn -->
 ### Contato
 
 <!-- Ícone quadrado clicável: o <a> é o link e o <img> é o ícone -->
