@@ -1,10 +1,8 @@
-<!-- Bloco do topo, todo centralizado -->
-<div align="center">
+<!-- Título fixo (sem animação), centralizado -->
+<h2 align="center">👋 Olá, me chamo Fernando Arruda Monteiro!</h2>
 
-<!-- Título animado que "digita" as frases; o texto vai em lines=, com frases separadas por ; e espaços trocados por + -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+me+chamo+Fernando+Monteiro!+%F0%9F%91%8B;Desenvolvedor+Back-end+%7C+Python+%26+Java;Automa%C3%A7%C3%A3o+%2B+IA+em+Fundos+de+Investimento" alt="Typing SVG" />
-
-</div>
+<!-- Subtítulo centralizado -->
+<p align="center"><b>Desenvolvedor Back-end · Python & Java · Automação e IA em Fundos de Investimento</b></p>
 
 <!-- Separador -->
 ---
@@ -31,16 +29,16 @@
 
 ---
 
-<!-- Stack: só as três linguagens principais -->
+<!-- Stack: só as três linguagens, em tamanho grande -->
 ## 🛠️ Minhas Tecnologias
 
-<!-- Uma linha centralizada com os três ícones; &nbsp; dá espaço entre eles (o logo do MySQL representa o SQL) -->
+<!-- Ícones com 100px de altura; &nbsp; dá espaço entre eles (o logo do MySQL representa o SQL) -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" alt="Python" title="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" alt="Java" title="Java"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="SQL" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="Python" title="Python"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="Java" title="Java"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="100" alt="SQL" title="SQL"/>
 </p>
 
 <!-- O que está em estudo, em texto pequeno -->
@@ -48,35 +46,57 @@
 
 ---
 
-<!-- Projeto principal -->
-## 🏦 Projeto em destaque: [Sistema Bancário Core](https://github.com/fernando-a-monteiro/core-banking-system)
+<!-- Os três projetos com o mesmo destaque -->
+## 🚀 Projetos em destaque
 
-<!-- Mini-badges do projeto (style=flat-square deixa os badges menores) -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
+<!-- Projeto 1: Sistema Bancário Core -->
+### 🏦 [Sistema Bancário Core](https://github.com/fernando-a-monteiro/core-banking-system)
 
+<!-- Mini-badges do projeto -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+
+<!-- Descrição -->
 Um sistema bancário desenvolvido de forma iterativa, documentando a evolução de uma arquitetura real:
 
-<!-- Tabela de fases: | separa as colunas e :---: centraliza o conteúdo -->
+<!-- Tabela de fases -->
 | Fase | Etapa | Conteúdo |
 | :---: | :--- | :--- |
 | 🚧 | **Fundação** | Orientação a objetos e persistência de dados |
 | ⏳ | **Confiabilidade** | Testes automatizados e tratamento de concorrência |
 | ⏳ | **Escala** | Docker, CI/CD, nuvem e otimização de performance |
 
----
-
-<!-- Outros projetos -->
-## 💳 Outros projetos
-
-<!-- Projeto 1: agente Smith -->
+<!-- Projeto 2: agente Smith -->
 ### 🤖 [Smith — Educador Financeiro](https://github.com/fernando-a-monteiro/smith-educador-financeiro)
-<!-- Origem do projeto em itálico -->
-*Desafio DIO · Bootcamp Bradesco GenAI*
 
 <!-- Mini-badges do projeto -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IA Generativa](https://img.shields.io/badge/IA-Generativa-8A2BE2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA-Generativa-8A2BE2?style=for-the-badge)
 
-<!-- Descrição do projeto -->
-Agente de IA educativo sobre
+<!-- Origem do projeto -->
+*Desafio DIO · Bootcamp Bradesco GenAI*
+
+<!-- Descrição -->
+Agente de IA educativo sobre fundos de investimento, que explica conceitos do mercado de forma acessível.
+
+<!-- Projeto 3: detecção de fraude -->
+### 🔍 [Detecção de Fraude em Cartão de Crédito](https://github.com/fernando-a-monteiro/deteccao-fraude-cartao)
+
+<!-- Mini-badges do projeto -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<!-- Origem do projeto -->
+*Desafio DIO · Formação Python for Data Analytics*
+
+<!-- Descrição -->
+Análise de transações e identificação de fraudes com Python e Pandas, do tratamento dos dados à avaliação dos resultados.
+
+---
+
+<!-- Contato no final: ícone quadrado do LinkedIn clicável e centralizado -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernando-monteiro-278b86231" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" title="Acesse meu LinkedIn"/>
+  </a>
+</p>
